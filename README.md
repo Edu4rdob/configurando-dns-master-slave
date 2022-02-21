@@ -1,0 +1,1 @@
+# configurando-dns-master-slave
